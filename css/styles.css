@@ -193,7 +193,9 @@ text-align: center;
   margin:40px;
   padding: 20px;
 }
-
+.top_logo{
+  padding:30px;
+}
 .image-stay{
 padding:20px;
 width:50%;
